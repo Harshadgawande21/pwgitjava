@@ -4,4 +4,7 @@ public class Launch
 		{
 			System.out.println("Hello Welcome to git hub");
 		}
+		{
+			System.out.println("Hi")
+		}
 }
